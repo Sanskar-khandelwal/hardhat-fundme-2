@@ -2,6 +2,7 @@ require("@nomicfoundation/hardhat-toolbox")
 require("dotenv").config()
 require("hardhat-gas-reporter")
 require("hardhat-deploy")
+require("@nomiclabs/hardhat-ethers")
 
 /** @type import('hardhat/config').HardhatUserConfig */
 
